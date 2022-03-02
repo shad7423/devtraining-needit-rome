@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_category">
+    <sys_cb_topic_category action="DELETE">
+        <description>Virtual Agent topics for the NeedIt Virtual Agent Conversations   application</description>
+        <name>NeedIt Virtual Agent Topics</name>
+        <sys_class_name>sys_cb_topic_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-23 18:08:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>7d293c2a2f3101108210811df699b698</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Virtual Agent Topics</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_cb_topic_category_7d293c2a2f3101108210811df699b698</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-23 18:08:35</sys_updated_on>
+        <visible>false</visible>
+    </sys_cb_topic_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f07e4fc8db413b803050ac44d49619c7</instance_id>
+        <instance_name>dev82623</instance_name>
+        <name>sys_cb_topic_category_7d293c2a2f3101108210811df699b698</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_category"><sys_cb_topic_category action="INSERT_OR_UPDATE"><description>Virtual Agent topics for the NeedIt Virtual Agent Conversations   application</description><name>NeedIt Virtual Agent Topics</name><sys_class_name>sys_cb_topic_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-23 18:08:35</sys_created_on><sys_domain>global</sys_domain><sys_id>7d293c2a2f3101108210811df699b698</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Virtual Agent Topics</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_cb_topic_category_7d293c2a2f3101108210811df699b698</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-23 18:08:35</sys_updated_on><visible>false</visible></sys_cb_topic_category></record_update>]]></payload>
+        <payload_hash>81200412</payload_hash>
+        <record_name>NeedIt Virtual Agent Topics</record_name>
+        <reverted_from/>
+        <source>91c9b0ed2f3d85108210811df699b6b6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-23 18:08:36</sys_created_on>
+        <sys_id>96697c2a2f3101108210811df699b635</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f27c54e110000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-23 18:08:36</sys_updated_on>
+        <type>Topic Category</type>
+        <update_guid>9e697c2a3d310110cddfb521b1662134</update_guid>
+        <update_guid_history>9e697c2a3d310110cddfb521b1662134:81200412</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-23 18:21:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_cb_topic_category">sys_cb_topic_category</sys_db_object>
+        <sys_id>98fe9c222abd4602b07f5040c02ccec4</sys_id>
+        <sys_metadata>7d293c2a2f3101108210811df699b698</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Virtual Agent Topics</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_cb_topic_category_7d293c2a2f3101108210811df699b698</sys_update_name>
+        <sys_update_version display_value="sys_cb_topic_category_7d293c2a2f3101108210811df699b698">96697c2a2f3101108210811df699b635</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-23 18:21:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
